@@ -1,0 +1,47 @@
+html{
+  font-family: helvetica;
+  text-align: center;
+}
+
+#heading{
+  background: url("../images/the-flatiron-building.png");
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a{
+  font-size: 18px;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#identify h3, #understand h3, #execute h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+#newyork{
+  background: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#footer{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
